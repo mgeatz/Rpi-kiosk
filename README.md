@@ -28,7 +28,7 @@ Download Raspberry Pi Imager directly from: https://www.raspberrypi.com/software
 
 ### Step 2: Flash the SD Card
 
-1. Insert your microSD card into your Mac
+1. Insert your microSD card into your Normal Laptop
 2. Open **Raspberry Pi Imager** (from Applications or Spotlight)
 3. Click **CHOOSE DEVICE** → Select **Raspberry Pi 3**
 4. Click **CHOOSE OS** → **Raspberry Pi OS (other)** → **Raspberry Pi OS Lite (32-bit)**
