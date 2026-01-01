@@ -22,7 +22,7 @@ Turn a Raspberry Pi 3 into a fullscreen web kiosk that displays a website on a t
 
 ## Detailed Instructions
 
-### Step 1: Install Raspberry Pi Imager
+### Step 1: Install Raspberry Pi Imager On Your Normal Laptop
 
 Download Raspberry Pi Imager directly from: https://www.raspberrypi.com/software/
 
